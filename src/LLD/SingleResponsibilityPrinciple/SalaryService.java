@@ -1,4 +1,4 @@
-package lld.SingleResponsibilityPrinciple;
+package LLD.SingleResponsibilityPrinciple;
 
 class SalaryService {
 

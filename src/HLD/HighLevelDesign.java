@@ -1,4 +1,4 @@
-package hld;
+package HLD;
 
 public class HighLevelDesign {
     public static void main(String[] args) {
